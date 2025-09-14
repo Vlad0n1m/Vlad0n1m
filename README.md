@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vlad — l0xa1 👋</h1>
+<h1 align="center">Hi, I'm Vlad — l0xa1 👋, I love Solana</h1>
 
 <p align="center">
   <b>Full Stack Developer</b> <br/>
