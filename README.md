@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vlad — l0xa1 👋, I love Solana</h1>
+<h1 align="center">Hi, I'm l0xa1 👋, I love Solana</h1>
 
 <p align="center">
   <b>Full Stack Developer</b> <br/>
@@ -68,11 +68,3 @@ Committed to staying ahead of trends, I bring sharp attention to detail, leaders
 - 🇬🇧 English — B2+  
 - 🇩🇪 German — A2  
 - 🇰🇿 Kazakh — A1+
-
----
-
-### 📫 Contact Me
-
-- 📬 Email: l0xa1ch@gmail.com  
-- 💬 Telegram: [@l0xa1](https://t.me/l0xa1)  
-- 💼 LinkedIn: [Vladislav Karachkov](https://www.linkedin.com/in/vladislav-karachkov-27a147309/)
